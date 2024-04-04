@@ -45,3 +45,5 @@
     - Grafana 모니터링
 #### 3-4-3. Mockup
 ![mockup](./assets/mockup.jpeg)
+
+### 3-5. 서버
