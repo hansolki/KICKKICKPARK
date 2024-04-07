@@ -47,3 +47,10 @@
 ![6-2](./../assets/6-2.jpeg)
 ![6-3](./../assets/6-3.jpeg)
 ![6-4](./../assets/6-4.jpeg)
+
+## 7. 성능
+![model result](./../assets/result1.jpeg)
+![](./../assets/result2.jpeg)
+- 학습이 진행되며 손실이 감소하고 재현율 및 정밀도가 증가하는 모습을 보임
+- 다만 train/val 데이터의 그래프 차이에서 학습데이터에 비해 검증데이터에서의 성능이 조금 더 낮음을 확인할 수 있음 
+
