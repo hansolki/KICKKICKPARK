@@ -50,6 +50,7 @@
 
 ### 3-5. 서버
 - Triton
+
 ![Triton](./assets/triton.jpeg)
     - 변경 전 
         - YOLOv8과 M-RCNN 모델이 순차적으로 실행됨 
@@ -57,6 +58,7 @@
         - Triton을 이용해 두 모델이 병렬로 실행됨
         - 성능응 비슷하나 기존 대비 2배 이상의 속도 향상이 이뤄짐
 - Grafana
+
 ![grafana](./assets/grafana.jpeg)
     - Grafana를 이용해 서버 및 모델 실시간 모니터링
 
